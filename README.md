@@ -7,7 +7,7 @@
 <img width="333" height="776" alt="image" src="https://github.com/user-attachments/assets/c28da5d0-5dd4-464e-b849-6d8371fe4aaa" />
 
 ## Cara menjalankan program
-1. git clone https://github.com/asrizalnova/auth-app.git
+1. git clone https://github.com/asrizalnova/login-auth
 2. buka di vs code, buka terminal
 3. npm install
 4. cd backend, kemudian node index.js
