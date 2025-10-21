@@ -2,6 +2,7 @@
 - Backend: API server dengan Express.js
 - Frontend: Antarmuka pengguna menggunakan React (Vite)
 - Database di dalam folder dengan nama login.sql
+- Screenshot tampilan ui pada folder screenshot tampilan
 
 ## Struktur Folder
 <img width="333" height="776" alt="image" src="https://github.com/user-attachments/assets/c28da5d0-5dd4-464e-b849-6d8371fe4aaa" />
